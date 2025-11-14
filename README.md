@@ -1,7 +1,7 @@
 # trik-slider
 slider with gsap
 
--[Demo Project](https://mohananoruztabar.github.io/Animated/)
+-[Demo Project](https://mohananoruztabar.github.io/trik-slider/)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
